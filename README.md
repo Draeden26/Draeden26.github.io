@@ -6,7 +6,34 @@ I am an IT professional with a profound interest in technology and a dedication 
 
 ## Objective
 
-My journey as a Technology Specialist and NOC Analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey as a Technology Specialist and NOC Analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.  Recently, I have completed the Security+ to pursue my passion for technology and Cybersecurity.  The Security+ have prepared me for industry-ready jobs.  My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats.
+
+As of 2025, I passed Security+ and CCNA. I am currently preparing to take the CySA+. 
+
+# Portfolio
+Please visit this link for further information.
+
+Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
+
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Security+ certification and online training. This program has provided insights into:
+
+<ul>
+<li>Programming for cybersecurity tasks </li>
+<li>Frameworks and controls that inform security operations</li>
+<li>SIEM tools for cybersecurity</li>
+<li>Detecting and responding to incidents using an intrusion detection system</li>
+<li>Performing packet capture and analysis</li>
+</ul>
+Additionally, it has paved the way for me to pursue one of the entry-level following roles:
+
+<ul>
+<li>SOC Analyst</li>
+<li>Cybersecurity Analyst</li>
+<li>Security Analyst</li>
+<li>Information Security Analyst</li>
+<li>IT Security Analyst</li>
+<li>Cyber Defense Analyst</li>
+</ul>
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
